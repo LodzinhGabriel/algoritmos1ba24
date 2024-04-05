@@ -1,0 +1,10 @@
+• Declarar variável inteiro do dia 
+• Declarar inteiro do dia atual
+
+• Digitar valor do dia
+
+• Desvio condicional para se os dias for 5, 10, 15, 20, 25 e 30:
+	• Se sim, escreva que o dia está chuvoso
+	• Se não, escreva que o dia irá estar ensolarado.
+
+É funcional.

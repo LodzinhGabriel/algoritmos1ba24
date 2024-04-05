@@ -1,0 +1,111 @@
+programa {
+  funcao inicio() {
+    real a1n1, a1n2, a1n3, a1n4, a2n1, a2n2, a2n3, a2n4, a3n1, a3n2, a3n3, a3n4, a4n1, a4n2, a4n3, a4n4, a5n1, a5n2, a5n3, a5n4
+    cadeia nome1, serie1, curso1, nome2, serie2, curso2, nome3, serie3, curso3, nome4, serie4, curso4, nome5, serie5, curso5
+
+    escreva("\nNome do aluno: ")
+    leia(nome1)
+    escreva("\nNome do curso: ")
+    leia(curso1)
+    escreva("\nSérie do aluno: ")
+    leia(serie1)
+    escreva("\n--------------")
+    escreva("\nNota do primeiro bimestre: ")
+    leia(a1n1)
+    escreva("\nNota do segundo bimestre: ")
+    leia(a1n2)
+    escreva("\nNota do terceiro bimestre: ")
+    leia(a1n3)
+    escreva("\nNota do quarto bimestre: ")
+    leia(a1n4)
+
+    escreva("\n--------------")
+    escreva("\nNome do aluno: ", nome1, "\nCurso do aluno: ", curso1, "\nSérie do aluno: ", serie1, "\nNota média do aluno: ", (a1n1 + a1n2 + a1n3 + a1n4) / 4)
+
+    escreva("\n--------------")
+
+    escreva("\nNome do aluno: ")
+    leia(nome2)
+    escreva("\nNome do curso: ")
+    leia(curso2)
+    escreva("\nSérie do aluno: ")
+    leia(serie2)
+    escreva("\n--------------")
+    escreva("\nNota do primeiro bimestre: ")
+    leia(a2n1)
+    escreva("\nNota do segundo bimestre: ")
+    leia(a2n2)
+    escreva("\nNota do terceiro bimestre: ")
+    leia(a2n3)
+    escreva("\nNota do quarto bimestre: ")
+    leia(a2n4)
+
+    escreva("\n--------------")
+    escreva("\nNome do aluno: ", nome2, "\nCurso do aluno: ", curso2, "\nSérie do aluno: ", serie2, "\nNota média do aluno: ", (a2n1 + a2n2 + a2n3 + a2n4) / 4)
+
+    escreva("\n--------------")
+
+    escreva("\nNome do aluno: ")
+    leia(nome3)
+    escreva("\nNome do curso: ")
+    leia(curso3)
+    escreva("\nSérie do aluno: ")
+    leia(serie3)
+    escreva("\n--------------")
+    escreva("\nNota do primeiro bimestre: ")
+    leia(a3n1)
+    escreva("\nNota do segundo bimestre: ")
+    leia(a3n2)
+    escreva("\nNota do terceiro bimestre: ")
+    leia(a3n3)
+    escreva("\nNota do quarto bimestre: ")
+    leia(a3n4)
+
+    escreva("\n--------------")
+    escreva("\nNome do aluno: ", nome3, "\nCurso do aluno: ", curso3, "\nSérie do aluno: ", serie3, "\nNota média do aluno: ", (a3n1 + a3n2 + a3n3 + a3n4) / 4)
+
+    escreva("\n--------------")
+
+    escreva("\nNome do aluno: ")
+    leia(nome4)
+    escreva("\nNome do curso: ")
+    leia(curso4)
+    escreva("\nSérie do aluno: ")
+    leia(serie4)
+    escreva("\n--------------")
+    escreva("\nNota do primeiro bimestre: ")
+    leia(a4n1)
+    escreva("\nNota do segundo bimestre: ")
+    leia(a4n2)
+    escreva("\nNota do terceiro bimestre: ")
+    leia(a4n3)
+    escreva("\nNota do quarto bimestre: ")
+    leia(a4n4)
+
+    escreva("\n--------------")
+    escreva("\nNome do aluno: ", nome4, "\nCurso do aluno: ", curso4, "\nSérie do aluno: ", serie4, "\nNota média do aluno: ", (a4n1 + a4n2 + a4n3 + a4n4) / 4)
+
+    escreva("\n--------------")
+
+    escreva("\nNome do aluno: ")
+    leia(nome5)
+    escreva("\nNome do curso: ")
+    leia(curso5)
+    escreva("\nSérie do aluno: ")
+    leia(serie5)
+    escreva("\n--------------")
+    escreva("\nNota do primeiro bimestre: ")
+    leia(a5n1)
+    escreva("\nNota do segundo bimestre: ")
+    leia(a5n2)
+    escreva("\nNota do terceiro bimestre: ")
+    leia(a5n3)
+    escreva("\nNota do quarto bimestre: ")
+    leia(a5n4)
+
+    escreva("\n--------------")
+    escreva("\nNome do aluno: ", nome5, "\nCurso do aluno: ", curso5, "\nSérie do aluno: ", serie5, "\nNota média do aluno: ", (a5n1 + a5n2 + a5n3 + a5n4) / 4)
+
+    escreva("\n--------------")
+  }
+}
