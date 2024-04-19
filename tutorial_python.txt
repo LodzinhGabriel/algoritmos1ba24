@@ -3,3 +3,13 @@ INTRODUÇÃO TUTORIAL DE PYTHON
 
 EXPLICANDO O QUE É PYTHON
 	O Python é uma linguagem de programação que foi criada nos anos 90 para ser uma linguagem interpretada de scripts, imperativa, funcional, de tipagem dinâmica e forte e orientada a objetos. Ela é uma das linguagens mais usadas no mundo, equiparado com JavaScript e C.
+
+PASSO A PASSO FAZER O DOWNLOAD
+	1- Abra seu navegador e entre no site para o download do python usando o link "https://www.python.org/downloads/";
+	2- Clique no botão escrito "Download Python 3.12.3" para abaixar o instalador do python.
+	3- Após o download, abra o instalador.
+	4- No início, clique na caixinha do "Add python.exe to PATH", que fica bem na seção do rodapé do instalador.
+	5- Clique em "Install Now"
+	6- Aguarde a instalação
+	7- Sucesso!
+
