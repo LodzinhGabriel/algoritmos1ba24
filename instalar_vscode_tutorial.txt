@@ -3,3 +3,10 @@ INTRODUÇÃO A INSTALAÇÃO DO VSCODE
 
 EXPLICAÇÃO SOBRE O QUE É O VSCODE
 	O Visual Studio Code (VScode) é uma ferramenta editora de código-fonte criada pela Microsoft e visa editar praticamente que quase todos as linguagens de código disponíveis no mercado. Possui o controle de versionamento do Git incorporado, realce de sintaxe, complemento inteligente de código, extensões para melhorar a sua edição do seu código, entre vários tipos de disponibilidades. É gratuito, de código aberto, e multiplataforma, sendo suportado para Windows, Linux e MacOS. É muito usado por vários desenvolvedores profissionais no mundo.
+
+DOWNLOAD DO VSCODE:
+	1- Abra o seu navegador.
+	2- Na barra de endereço do link, digite: "https://code.visualstudio.com/"
+	3- Clique no botão "Download for Windows", para caso for o sistema operacional for Windows, mas tem suporte para MacOS e Linux.
+	4- Aguarde o arquivo de instalação do VScode ser baixado do seu navegador.
+	5- Sucesso!
