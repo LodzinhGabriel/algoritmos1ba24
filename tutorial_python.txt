@@ -1,0 +1,2 @@
+INTRODUÇÃO TUTORIAL DE PYTHON
+	Hoje iremos instalar o python e suas livrarias dentro de sua máquina.
