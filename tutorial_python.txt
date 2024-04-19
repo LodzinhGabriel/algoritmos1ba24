@@ -1,2 +1,5 @@
 INTRODUÇÃO TUTORIAL DE PYTHON
 	Hoje iremos instalar o python e suas livrarias dentro de sua máquina.
+
+EXPLICANDO O QUE É PYTHON
+	O Python é uma linguagem de programação que foi criada nos anos 90 para ser uma linguagem interpretada de scripts, imperativa, funcional, de tipagem dinâmica e forte e orientada a objetos. Ela é uma das linguagens mais usadas no mundo, equiparado com JavaScript e C.
