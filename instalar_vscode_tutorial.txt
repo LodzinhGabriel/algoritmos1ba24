@@ -10,3 +10,13 @@ DOWNLOAD DO VSCODE:
 	3- Clique no botão "Download for Windows", para caso for o sistema operacional for Windows, mas tem suporte para MacOS e Linux.
 	4- Aguarde o arquivo de instalação do VScode ser baixado do seu navegador.
 	5- Sucesso!
+
+INSTALAÇÃO DO VSCODE:
+	1- O instalador estará com o nome de "VSCodeUserSetup-x64-1.88.1". Ache-o e execute-o.
+	2- Aceite os temos do contrato e clique em Próximo.
+	3- Marque a opção de "Criar um atalho na área de trabalho"
+	4- Se estiver desmarcado as duas opções de "Abrir um Code" no Windows Explorer, ative-os. Caso contrário, clique em próximo.
+	5- Clique em Instalar.
+	6- Aguarde a instalação.
+	7- Após o processo, clique em Concluir.
+	8- Sucesso!
