@@ -1,2 +1,5 @@
 INTRODUÇÃO A INSTALAÇÃO DO VSCODE
 	Hoje iremos mostrar o que é o VScode e a instalação dele na sua máquina.
+
+EXPLICAÇÃO SOBRE O QUE É O VSCODE
+	O Visual Studio Code (VScode) é uma ferramenta editora de código-fonte criada pela Microsoft e visa editar praticamente que quase todos as linguagens de código disponíveis no mercado. Possui o controle de versionamento do Git incorporado, realce de sintaxe, complemento inteligente de código, extensões para melhorar a sua edição do seu código, entre vários tipos de disponibilidades. É gratuito, de código aberto, e multiplataforma, sendo suportado para Windows, Linux e MacOS. É muito usado por vários desenvolvedores profissionais no mundo.
