@@ -16,3 +16,21 @@ PASSO A PASSO DE INSTALAÇÃO
 	3- Clique em "Install Now"
 	4- Aguarde a instalação
 	5- Sucesso!
+
+------------
+
+AMBIENTES VIRTUAIS DO PYTHON: O QUE É?
+	É como se fosse uma cópia do Python em uma subpasta do seu projeto. É util para evitar que problemas atinga o diretório principal do python, e também evitar um possível conflito entre livrarias que não são compatives uma a outra.
+
+COMO CRIAR UM VENV (AMBIENTE VIRTUAL)
+	1- Abra o seu cmd no admnistrador.
+	2- Navegue até o caminho de seu projeto usando cd /caminho/do/projeto.
+	3- Digite o comando "python -m venv seu_nome_do_seu_venv".
+
+ATIVAR UM VENV NO WINDOWS:
+	Digite "seu_nome_do_seu_venv\Scripts\activate" para ativar o seu ambiente virtual.
+
+ATIVAR UM VENV NO MACOS E LINUX:
+	Digite "source seu_nome_do_seu_venv\bin\activate" para ativar o seu ambiente virtual.
+
+	
