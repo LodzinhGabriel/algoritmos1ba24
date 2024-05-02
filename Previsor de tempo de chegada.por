@@ -1,7 +1,13 @@
 programa {
   funcao inicio() {
     real distancia, velocidade, tempo
+    cadeia nome
 
+    escreva("Previsor de tempo de chegada\n")
+    escreva("Seu nome: ")
+    leia(nome)
+
+    limpa()
     escreva("Previsor de tempo de chegada\n")
     escreva("Sua distância (Km): ")
     leia(distancia)
@@ -14,13 +20,13 @@ programa {
       tempo = tempo * 60
       limpa()
       escreva("Previsor de tempo de chegada\n")
-      se (tempo == 1) escreva("Seu tempo de chegada será de: ", tempo, " minuto")
-      senao escreva("Seu tempo de chegada será de: ", tempo, " minutos")
+      se (tempo == 1) escreva(nome, ", seu tempo de chegada será de: ", tempo, " minuto")
+      senao escreva(nome, ", seu tempo de chegada será de: ", tempo, " minutos")
     } senao {
       limpa()
       escreva("Previsor de tempo de chegada\n")
-      se (tempo == 1) escreva("Seu tempo de chegada será de: ", tempo, " hora")
-      senao escreva("Seu tempo de chegada será de: ", tempo, " horas")
+      se (tempo == 1) escreva(nome, ", seu tempo de chegada será de: ", tempo, " hora")
+      senao escreva(nome, ", seu tempo de chegada será de: ", tempo, " horas")
     }
   }
 }
